@@ -20,14 +20,15 @@ CSS3: Styling and layout.
 
 JavaScript: Game logic and interactivity.
 
-📁 Project Structure
-pgsql
-Copy
-Edit
+## 📁 Project Structure
+
+```
 rock-paper-scissors-shoot-game/
 ├── index.html
 ├── style.css
 └── script.js
+```
+
 index.html: The main HTML file that structures the web page.
 
 style.css: Contains styles to make the game visually appealing.
