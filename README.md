@@ -58,4 +58,4 @@ Introduce difficulty levels.
 Allow multiplayer mode.
 
 🧑‍💻 Author
-Natnael22sds – GitHub Profile
+Natnael22sds – [GitHub Profile](https://github.com/Natnael22sds)
