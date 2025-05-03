@@ -45,7 +45,8 @@ Scoreboard: Tracks and displays the player's and computer's scores.
 Clean UI: Simple and user-friendly interface.
 
 📸 Screenshots
-(Include screenshots of your game here to showcase the UI and gameplay.)
+![capturerGame](https://github.com/user-attachments/assets/1e593453-1ec4-4ce3-9364-415b0d359067)
+
 
 📌 Future Enhancements
 Add sound effects for each move.
