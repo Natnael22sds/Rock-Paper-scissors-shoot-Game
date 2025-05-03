@@ -2,7 +2,7 @@
 A fun and interactive web-based Rock-Paper-Scissors game where you can challenge the computer. Built using HTML, CSS, and JavaScript, this project demonstrates fundamental web development skills and game logic implementation.
 
 🎮 Live Demo
-Play the game here: Rock-Paper-Scissors-Shoot Game
+Play the game here:  https://natnael22sds.github.io/Rock-Paper-scissors-shoot-Game/
 
 🧠 How to Play
 Choose Your Move: Click on one of the buttons—Rock, Paper, or Scissors.
